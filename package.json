@@ -1,0 +1,7 @@
+{
+  "name": "stocksense-ai",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix stock-ai-platform/frontend"
+  }
+}
